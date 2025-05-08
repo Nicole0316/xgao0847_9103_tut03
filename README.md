@@ -21,8 +21,11 @@ In *Arcane*, I was inspired by two main visual techniques. The first is the tran
 
 ## Part 2: Coding Technique Exploration
 
-To simulate the glowing, unstable energy of Jinx’s graffiti overlays, I plan to use a particle system in p5.js combined with the `blendMode(ADD)` function. This technique allows overlapping particles to become brighter, mimicking a neon effect. By adding randomness to particle movement, opacity, and lifespan, the system can express emotional tension and chaotic motion. The result is a dynamic, layered visual style that reflects instability—perfect for translating psychological states into generative art.
+To express the chaotic energy and layered instability seen in Jinx’s graffiti overlays from Arcane, I chose to use p5.js’s official smoke particle system. This technique uses drifting particles that fade and disperse, simulating emotional turbulence and dynamic movement. It offers strong visual storytelling potential through generative, expressive motion.
 
-![Smoke Particle System Example](https://p5js.org/assets/examples/smoke-particle-system.png)
+By modifying the particle color to neon hues and adding `blendMode(ADD)`, the system can imitate glowing graffiti strokes. The randomness of particle direction and lifespan further supports the depiction of a fragmented mental state or emotional intensity.
 
-- Live Demo: [Smoke Particles – p5.js Example](https://p5js.org/examples/math-and-physics-smoke-particle-system/)
+![Smoke Particle Demo 1](readmeImages/Smoke Particles1.png)  
+![Smoke Particle Demo 2](readmeImages/Smoke Particles2.png)
+
+🔗 [Smoke Particles – p5.js Official Example](https://p5js.org/examples/math-and-physics-smoke-particle-system/)
