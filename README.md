@@ -25,7 +25,7 @@ To express the chaotic energy and layered instability seen in Jinx’s graffiti 
 
 By modifying the particle color to neon hues and adding `blendMode(ADD)`, the system can imitate glowing graffiti strokes. The randomness of particle direction and lifespan further supports the depiction of a fragmented mental state or emotional intensity.
 
-![Smoke Particle Demo 1](readmeImages/Smoke Particles1.png)  
-![Smoke Particle Demo 2](readmeImages/Smoke Particles2.png)
+![Smoke Particle Demo 1](readmeImages/Smoke%20Particles1.png)
+![Smoke Particle Demo 2](readmeImages/Smoke%20Particles2.png)
 
 🔗 [Smoke Particles – p5.js Official Example](https://p5js.org/examples/math-and-physics-smoke-particle-system/)
